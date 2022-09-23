@@ -1,3 +1,4 @@
+#pig-game-code
 from random import randint
 
 playercount = 2
